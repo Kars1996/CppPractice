@@ -6,7 +6,7 @@ int main() {
     int grade = 85;
 
     int tempgrade = grade / 10;
-    switch (tempgrade) { 
+    switch (tempgrade) {
     case 10:
     case 9:
         cout << "The grade is A" << endl;
